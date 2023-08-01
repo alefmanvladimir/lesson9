@@ -1,0 +1,5 @@
+;; String "hello"
+slice __gen_slice_string_dde115548d9f228a10b8d45eeb3f9a67d74b58bf3aa8e264e7d6132f5e6eb988() asm "B{b5ee9c7241010101000700000a68656c6c6f4d1ca352} B>boc <s PUSHSLICE";
+
+;; String "hi"
+slice __gen_slice_string_4fab48b68e029a406ce9c4a4606372cafce5d7a0eb5eca581492dbac54c7de00() asm "B{b5ee9c724101010100040000046869c339bbc1} B>boc <s PUSHSLICE";

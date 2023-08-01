@@ -1,0 +1,5 @@
+;; String "Alefman NFT Collection"
+slice __gen_slice_string_09bb65541535e324e34c9752eeaa5a50578d2ce18fba0f674ebd5afb9b3562e1() asm "B{b5ee9c7241010101001800002c416c65666d616e204e465420436f6c6c656374696f6e31d062bf} B>boc <s PUSHSLICE";
+
+;; String "Item # - "
+slice __gen_slice_string_d4adbc52430ef17945b89e8082378d99af18e48ae425a5dd7540ce8ff052733d() asm "B{b5ee9c7241010101000b0000124974656d2023202d2034185065} B>boc <s PUSHSLICE";
